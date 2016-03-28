@@ -1,0 +1,10 @@
+D:\软件测试\SMSTester\SMSTester\bin\Debug\SMSTester.exe.config
+D:\软件测试\SMSTester\SMSTester\bin\Debug\SMSTester.exe
+D:\软件测试\SMSTester\SMSTester\bin\Debug\SMSTester.pdb
+D:\软件测试\SMSTester\SMSTester\obj\Debug\SMSTester.csprojResolveAssemblyReference.cache
+D:\软件测试\SMSTester\SMSTester\obj\Debug\SMSTester.Form1.resources
+D:\软件测试\SMSTester\SMSTester\obj\Debug\SMSTester.Properties.Resources.resources
+D:\软件测试\SMSTester\SMSTester\obj\Debug\SMSTester.csproj.GenerateResource.Cache
+D:\软件测试\SMSTester\SMSTester\obj\Debug\SMSTester.exe
+D:\软件测试\SMSTester\SMSTester\obj\Debug\SMSTester.pdb
+D:\软件测试\SMSTester\SMSTester\obj\Debug\Nuctech.RMS_PC.SMSManageForm.resources
